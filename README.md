@@ -12,3 +12,5 @@ Table of Contents:
 Description: This project is done on Microsoft Power BI Desktop Version: 2.119.986.0 64-bit (July, 2023).
 
 Note: All the CSV and PBIX files contain dummy data.
+
+Copyright © 2024 Shams Ashraf Khan. All rights reserved.
